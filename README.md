@@ -12,19 +12,12 @@
 <a href="https://twitter.com/Anup27781321?s=09" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anup-jujagar-531430203" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h4/>A ML developer and Full Stack web-developer from Solapur, Maharashtra. I love to solve problems created by others ;). Codechef 2 ⭐ <h4/>
+### 👨🏻‍💻 &nbsp;About Me
 
-### I'm Currently
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />
-
-
-- <h4>📱Programmer but not a pro in grammar<h4/>
-- 📚 Competitive Coder
-- ⚛️ I ❤️ Full Stack 
-- ⚛️ I ❤️ ML, AI 
-- 👷🏽‍♂️Looking for Opportunities
-<h4> ‍ <h4/>
+🎓 &nbsp;I'm a Computer Science Engineering at IIIT Dharwad, Karnataka .\
+🌱 &nbsp;I'm a full stack Web Developer with knowledge in Machine Learning and Artificial Intelligence .\
+✍️ &nbsp;I like to play football and guitar in my free time.\
+✉️ &nbsp;You can shoot me an email at anupjujagar121@gmail.com! I'll try to respond as soon as I can.\  
   
  ### My Industrial Experiences
  - Competitive Coding (Codechef)
