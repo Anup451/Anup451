@@ -76,11 +76,11 @@
 
 <h2 align="center">Repositories</h2>
 
-<p width="100%" align="center">
+<!-- <p width="100%" align="center">
   <a align="left" href="https://github.com/yasharth291/Flutter-Apps" title="Flutter Apps"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yasharth291&repo=Flutter-Apps&theme=gotham"></a><a align="right" href="https://github.com/yasharth291/COVID-19-TRACKER" title="Covid-19 tracker"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yasharth291&repo=COVID-19-TRACKER&theme=gotham"></a>
-</p>
+</p> -->
 <br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/yasharth291?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/Anup451?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 
 <h2 align="center">I code with</h2>
@@ -129,10 +129,7 @@
         <span>Reactjs</span><br><br><br>
         <img height="64px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif">
       </td>
-       <td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
-      </td>
+ 
       <td width="25%" align="center">
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
@@ -146,13 +143,12 @@
 <img src=https://readme-jokes.vercel.app/api />
 
 
-## Support me here
-<a href="https://www.buymeacoffee.com/yasharth" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 <p align="center"> 
    Visitor Count
  <br/>
-  <img src="https://profile-counter.glitch.me/yasharth291/count.svg" />
+  <img src="https://profile-counter.glitch.me/Anup451/count.svg" />
 </p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
