@@ -89,7 +89,7 @@
       </td>
       <td width="20%" align="center">
         <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">
+        <img height="64px" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif">
       </td>
       <td width="20%" align="center">
         <span>CSS</span><br><br><br>
