@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </p>
-### Hi there 👋
 
 <h1 align="center"> Anup Jujagar </h1>
 
