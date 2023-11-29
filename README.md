@@ -3,9 +3,9 @@
 
 <br>
 <p align="center">
-![image](https://github.com/Anup451/Anup451/assets/78673834/6401a8bc-4c7b-4568-b2ba-a9ab32bc7e2f)
+<!-- ![image](https://github.com/Anup451/Anup451/assets/78673834/6401a8bc-4c7b-4568-b2ba-a9ab32bc7e2f) -->
+  <img  src="https://github.com/Anup451/Anup451/assets/78673834/6401a8bc-4c7b-4568-b2ba-a9ab32bc7e2f"/>
 </p>
-
 <h1 align="center"> Anup Jujagar </h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
