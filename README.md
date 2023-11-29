@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+![image](https://github.com/Anup451/Anup451/assets/78673834/6401a8bc-4c7b-4568-b2ba-a9ab32bc7e2f)
 </p>
 
 <h1 align="center"> Anup Jujagar </h1>
