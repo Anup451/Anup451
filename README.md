@@ -4,7 +4,7 @@
 <br>
 <p align="center">
 <!-- ![image](https://github.com/Anup451/Anup451/assets/78673834/6401a8bc-4c7b-4568-b2ba-a9ab32bc7e2f) -->
-  <img  src="https://github.com/Anup451/Anup451/assets/78673834/6401a8bc-4c7b-4568-b2ba-a9ab32bc7e2f"/>
+  <img  src="https://media.licdn.com/dms/image/D5616AQFAWzQGd7IfDw/profile-displaybackgroundimage-shrink_350_1400/0/1689744282711?e=1706745600&v=beta&t=9U6J9w1C8Br0HLo1d0IC-lFTTiXFeYKXbqfMcIem5tI"/>
 </p>
 <h1 align="center"> Anup Jujagar </h1>
 
